@@ -1,7 +1,8 @@
 # Crabby
 A useless gem that shows your irritation at errors to you machine
 
-
+```
+/
 　　,.、,､,..,､､.,､,､､..,_　　　　　 　／i
 　;'｀;、､:、. .:、:,　:,.: ::｀ﾞ:.:ﾞ:｀''':,'.´ -‐i
 　'､;: ...: ,:. :.､.∩.. .:: ;.;;.∩‐'ﾞ ￣ ￣
@@ -18,6 +19,7 @@ A useless gem that shows your irritation at errors to you machine
 　　　||　 ||￣￣￣￣￣￣￣||
 　　　 　 .||　 　 　 　 　 　 　 ||
 
+```
 
 ## Installation
    gem install crabby
