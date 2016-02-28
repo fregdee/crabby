@@ -1,4 +1,4 @@
-# Crabby
+# Irritation
 A useless gem that shows your irritation at errors to you machine
 
 ```
