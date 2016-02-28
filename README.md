@@ -22,4 +22,4 @@ A useless gem that shows your irritation at errors to you machine
 ```
 
 ## Installation
-   gem install crabby
+   ```gem install crabby```
